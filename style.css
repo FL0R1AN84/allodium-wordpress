@@ -9,7 +9,7 @@
 
 :root {
     --border-color: #8d8d8d;
-    --border-radius: 10px;
+    --border-radius: 25px;
 }
 
 *, ::after, ::before {
